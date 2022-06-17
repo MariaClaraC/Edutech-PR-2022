@@ -4,8 +4,8 @@
 
 :comet: Cursos e artigos completos
 ------
-* :chart_with_upwards_trend: Data Analysis: Google Sheets; [Em andamento]
-* Data Analysis: estatística com Google Sheets;
+* :chart_with_upwards_trend: Data Analysis: Google Sheets; [Finalizado]
+* Data Analysis: estatística com Google Sheets;[Em andamento]
   *  Data Visualization: técnicas de visualização com Google Sheets;
   *  Data Visualization: Técnicas aplicadas no gráfico de linhas;
 
